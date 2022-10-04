@@ -1,1 +1,2 @@
-hoge
+hoge hoge 
+you are genius!
